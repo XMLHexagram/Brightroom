@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
   name: "Brightroom",
   platforms: [
-    .macOS(.v10_12),
+    .macOS(.v10_15),
     .iOS(.v13),
   ],
   products: [
